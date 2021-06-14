@@ -1,6 +1,6 @@
 # 유튜브 다음 컨텐츠 구상 프로젝트(korean.ver)
 
-## 프로젝트 개요
+## 🎈프로젝트 개요
 
 유튜브를 즐겨보는 한국인이라면 다음과 같은 댓글을 본 적이 있을 것입니다.
 
@@ -15,7 +15,7 @@
 
 ---
 
- ## 프로젝트 기능
+ ## ✏프로젝트 기능
 
 1. 유튜브 댓글에서 한글 댓글 추출
 2. 단어 빈도순 상위 30개 추출
@@ -25,7 +25,7 @@
 
 ---
 
-## 사용방법
+## 📂사용방법
 
 크롬 드라이버 설치 이후 driver에 설치 경로 입력
 
@@ -44,7 +44,7 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 -----------------
 
- <span style="color:red">★</span> pip install gensim==3.8.1<span style="color:red">★</span>
+ <span style="color:red">★</span> **pip install gensim==3.8.1**<span style="color:red">★</span>
 - Gensim package version을 3.8.1로 해주어야 에러가 발생하지 않는다.
 
     참고 사이트 : https://stackoverflow.com/questions/66952438/attributeerror-cant-get-attribute-vocab-on-module-gensim-models-word2vec
@@ -68,7 +68,7 @@ https://drive.google.com/file/d/0B0ZXk88koS2KbDhXdWg1Q2RydlU/view
 > pip install gensim==3.8.1
 
 ---
-## 프로젝트 결과
+## 🎁프로젝트 결과
 test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 
 - 댓글 리스트
@@ -84,7 +84,7 @@ test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 
     > oh 예뻐요 oh
 
-### 최종 결과물
+### 📈최종 결과물
 
 ### 1) output
 ![image](https://user-images.githubusercontent.com/28985207/121881761-a4238f80-cd4a-11eb-880e-000f81599966.png)
@@ -99,16 +99,14 @@ test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 
 * 자세한 구조는 '벚꽃잎 폭풍 한글댓글 모음' 파일 참조
 ---
-## 한계점
+## 😥한계점
 
 - 인물의 이름이 자주 나타날 경우, 유사도 높은 단어로 인물의 이름이 꽤나 많이 나타나는 문제가 있다.
 - 동물, 가족 호칭(오빠, 언니 등)도 마찬가지
 - 가족 호칭은 상대적으로 적어 stopwords 파일에 추가하여 어느 정도 해결
 
 ---
-
 <br>
-
  ## 참조
  <br>
  PythonSelenium을-사용하여-유튜브-댓글-가져오기 
