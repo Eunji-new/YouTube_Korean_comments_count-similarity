@@ -87,7 +87,7 @@ test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 ### 📈최종 결과물
 
 ### 1) output
-![image](https://user-images.githubusercontent.com/28985207/121881761-a4238f80-cd4a-11eb-880e-000f81599966.png)
+![image](https://user-images.githubusercontent.com/28985207/121910124-8c0f3880-cd69-11eb-8a39-35f22da1c420.png)
 
 ### 2) excel 파일(.xlxs)
 * 제목 : 영상 타이틀 + 한글 댓글모음.xlxs
