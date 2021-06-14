@@ -29,7 +29,7 @@
 
 크롬 드라이버 설치 이후 driver에 설치 경로 입력
 
-꼭!!☆현재 크롬 버전☆에 맞게 설치해주셔야 합니다!
+꼭!!**☆현재 크롬 버전☆**에 맞게 설치해주셔야 합니다!
 
 - 크롬 버전이 91.0.4472.19인 경우
 
@@ -44,9 +44,11 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 -----------------
 
-> <span style="color:red">★</span> pip install gensim==3.8.1<span style="color:red">★</span>
+ <span style="color:red">★</span> pip install gensim==3.8.1<span style="color:red">★</span>
 - Gensim package version을 3.8.1로 해주어야 에러가 발생하지 않는다.
-참고 사이트 : https://stackoverflow.com/questions/66952438/attributeerror-cant-get-attribute-vocab-on-module-gensim-models-word2vec
+
+    참고 사이트 : https://stackoverflow.com/questions/66952438/attributeerror-cant-get-attribute-vocab-on-module-gensim-models-word2vec
+
 ---
 
 pre-trained word vector 모델 **ko.bin** 다운(https://github.com/Kyubyong/wordvectors)
@@ -91,6 +93,9 @@ test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 * 제목 : 영상 타이틀 + 한글 댓글모음.xlxs
 
 * 3개의 sheet : 한글댓글, TOP30 단어, TOP100 유사도
+
+ >>> ![image](https://user-images.githubusercontent.com/28985207/121889829-a5f25080-cd54-11eb-98a2-e45eba7093ab.png)
+
 
 * 자세한 구조는 '벚꽃잎 폭풍 한글댓글 모음' 파일 참조
 ---
