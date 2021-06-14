@@ -26,6 +26,7 @@
 ---
 
 ## 📂사용방법
+- youtube_comments_SourceCode.py 실행
 
 크롬 드라이버 설치 이후 chrome_driver_PATH에 설치 경로 입력
 
@@ -51,7 +52,12 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ---
 
-pre-trained word vector 모델 **ko.bin** 다운(https://github.com/Kyubyong/wordvectors)
+pre-trained word vector 모델 **ko.bin** 다운( 출처 : https://github.com/Kyubyong/wordvectors)
+
+이미 레포지토리 안에 들어 있긴 합니다!
+
+다운 링크 🔽
+
 https://drive.google.com/file/d/0B0ZXk88koS2KbDhXdWg1Q2RydlU/view
 
 ---
