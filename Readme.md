@@ -52,9 +52,10 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ---
 
-pre-trained word vector 모델 **ko.bin** 다운( 출처 : https://github.com/Kyubyong/wordvectors)
+**★★★ pre-trained word vector 모델 ***ko.bin*** 다운!!! ★★★**( 출처 : https://github.com/Kyubyong/wordvectors)
 
-이미 레포지토리 안에 들어 있긴 합니다!
+
+**다운받아 소스코드 파일과 같은 경로에 넣어줍니다!!**
 
 다운 링크 🔽
 
