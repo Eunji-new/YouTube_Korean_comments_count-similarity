@@ -96,7 +96,7 @@ test용 영상 링크 : https://www.youtube.com/watch?v=H0Ds7z95CvM
 ### 1) output
 ![image](https://user-images.githubusercontent.com/28985207/121910124-8c0f3880-cd69-11eb-8a39-35f22da1c420.png)
 
-### 2) excel 파일(.xlxs)
+### 2) excel 파일(.xlxs) -> output폴더 안에 저장됨
 * 제목 : 영상 타이틀 + 한글 댓글모음.xlxs
 
 * 3개의 sheet : 한글댓글, TOP30 단어, TOP100 유사도
